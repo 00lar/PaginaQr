@@ -1,0 +1,2 @@
+# PaginaQr
+practica
